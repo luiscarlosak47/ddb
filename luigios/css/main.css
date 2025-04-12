@@ -1,0 +1,21 @@
+:root {
+  --border-color: #dadce0;
+  --background-color: #fff;
+  --primary-color: #157efb;
+  --secondary-color: #e7381b;
+  --third-color: #fecc01;
+  --icon-listing-compact-size: 120px;
+  --content-width: 980px;
+  --btn-size: 150px;
+  --accent-color: #157efb;
+  --logo-size: calc(var(--btn-size) * 2);
+  --primary-color-hover: #1b74ff;
+  --secondary-color-hover: #e7381b;
+  --primary-shadow: 0 10px 29px -10px rgba(0, 0, 0, 0.15);
+  --secondary-shadow: 0 10px 29px -10px rgba(0, 0, 0, 0.3);
+  --link-active-color: var(--primary-color);
+  --feed-width: 580px;
+  --btn-opacity-active: 0.5;
+  --view-background: rgb(0, 0, 0, 0.5);
+  --option-hover-background: rgb(0, 0, 0, 0.05);
+}
