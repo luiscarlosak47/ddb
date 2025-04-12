@@ -1,1 +1,5 @@
-Go.views({});
+Go.views({
+  "/": {
+    name: "home",
+  },
+});
